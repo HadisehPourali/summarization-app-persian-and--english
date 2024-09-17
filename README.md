@@ -4,6 +4,8 @@
 
 This project implements a multilingual text summarization tool using Hugging Face's API and Gradio for the user interface. It supports summarization in English and Persian, with automatic language detection and a fallback model for improved reliability.
 
+Here is the link to the app in Hugginface Spaces: https://huggingface.co/spaces/ImHadis/summarization-app
+
 ## Features
 
 - Summarizes text in English and Persian
